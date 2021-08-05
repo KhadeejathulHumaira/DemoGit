@@ -7,6 +7,7 @@ console.log("this is a conflict")
 const h1="happy"
 console.log("This is For trail ")
 const animal="Wolf"
-const bird="crow"
+const bird="Sea Bird "
+const h3="Happy Birthday"
 const h1="happy"
 console.log("This is For trail ")
